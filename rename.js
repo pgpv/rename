@@ -1,4 +1,4 @@
-function property( data, oldName, newName )
+exports.property = function( data, oldName, newName )
 {
   if( Array.isArray( data ) )
   {
