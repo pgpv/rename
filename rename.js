@@ -1,4 +1,4 @@
-function rename( data, oldName, newName )
+function property( data, oldName, newName )
 {
   if( Array.isArray( data ) )
   {
