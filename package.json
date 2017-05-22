@@ -1,11 +1,8 @@
 {
-  "name": "rename",
+  "name": "rename-property",
   "version": "1.0.0",
   "description": "Renames properties",
   "main": "rename.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "pgpv",
   "license": "ISC"
 }
